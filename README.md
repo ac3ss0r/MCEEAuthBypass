@@ -1,6 +1,6 @@
 # MCEE Auth Bypass
 ![N|Solid](https://github.com/acessors/MCEEAuthBypass/blob/main/logo.png?raw=true)
-#### Minecraft education edition auth bypass for Windows 7/8/9 by changing a memory address value.
+#### Minecraft education edition auth bypass for Windows 7/8/10 by changing a memory address value.
 
 # Usage
 
