@@ -1,0 +1,63 @@
+1.17.32.0 (Win32):
+2CC015C > 0 > 7C > 0 > 64 > 0 > 2E4 > 8
+1.17.31.0 (Win32):
+2CBF13C > 0 > 7C > 0 > 68 > C > 2E4 > 8
+1.17.30.52 (Win32):
+2CBF0FC > 0 > 7C > 0 > 68 > C > 2E4 > 8
+1.17.30.2 (Win32)
+2E1F95C > CC > 8
+1.17.30.0 (Win32)
+2C9ACF0 > 0 > 7C > 0 > 64 > 0 > 2E4 > 8
+1.14.70 (Win32)
+24565D4 > 0 > 2FC > 0
+1.14.60 (Win32)
+2441358 > 0 > 2FC > 0
+1.14.50 (Win32)
+23D41B0 > C > 18 > 4 > 8 > 2C > 5C > 0
+1.14.40 (Win32):
+244E588 > C > 18 > 4 > 8 > 2C > 5C > 0
+1.14.31 (Win32):
+23D4CA0 > 18 > 4 > 0 > 5C > 2C > 2C
+1.14.30 (Win32): 
+2414FF8 > 0 > 1B8 > 170 > C > 9C > 4 > 0
+1.12.61 (Win32):
+1E0D71C > 54 > 25C > 8 > C4 > 2C > 264 > 0
+1.12.60 (Win32): 
+1E0D6C0 > 18 > 4 > 0 > 64 > 8 > 7C > 0
+1.12.3.1 (Win32):
+1FBFA8C > 80 > 620 > 7C > 804 > 4 > 25C > 0
+1.12.0.1 (Win32):
+1F5587C > 84 > 514 > 7C > 7FC > 4 > 254 > 0
+1.8.1.0 (Win32):
+18F30F0 > F4 > 4 > 14 > 2C > 124 > 14C > 0
+1.9.1.0 (Win32):
+18F41C0 > 3C > 34 > 4 > 8 > 120 > 14C > 0
+1.7.9.0 - 1.8.0.0 (Win32):
+18ED770 > 10 > 4 > 4 > 11C > 14C > 0
+1.7.3.1 (Win32):
+1792250 > A4 > 78 > AC > 0 > 24C > 0
+
+1.17.32.0 (Universal Windows Platform x64):
+33F9568 > 0 > 130 > 10 > 5A0 > 18 > 68 > 10
+1.17.30.52 (Universal Windows Platform x64):
+3607D48 > 0 > 50 > A8 > E8 > 0 > 630 > 10
+1.17.30.2 (Universal Windows Platform x64):
+36E0BB8 > 0 > 6C0 > 10
+1.14.70 (Universal Windows Platform x64):
+2D98F08 > 0 > 560 > 0
+1.14.60 (Universal Windows Platform x64):
+2D7BA68 > 0 > 560 > 0
+1.14.50 (Universal Windows Platform x64):
+2D47FC8 > 0 > 560 > 0
+1.14.40 (Universal Windows Platform x64):
+294BF68 > 4D0 > 0 > A8 > 18 > 98 > 48 > 0
+1.14.31 (Universal Windows Platform x64):
+292AF38 > 1D8 > 0 > 30 > 8 > 0 > A8 > 0
+1.12.60 (Universal Windows Platform x64): 
+2594A58 > 60 > 138 > 58 > 480 > 10 > A8 > 0
+1.12.5 (Universal Windows Platform x64):
+258C2A0 > 60 > 138 > 58 > 480 > 10 > A8 > 0
+0.14.2 (Early Access) (Universal Windows Platform x64):
+AF1020 > 238 > F8 > 8 > E8 > 0 > 308 > 0
+1.3.0 (MS Leak) (Universal Windows Platform x64):
+AE65C0 > 20 > D8 > 140 > 28 > 248 > 2F8 > 0
