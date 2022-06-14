@@ -11,5 +11,5 @@
 # Compiling
 
 - Download mingw llvm-mingw from https://github.com/mstorsjo/llvm-mingw/releases
-- Use g++.exe for 64 bits and i686-w64-mingw32-g++.exe for 32 bits.
+- Use x86_64-w64-mingw32-g++.exe for 64 bits and i686-w64-mingw32-g++.exe for 32 bits.
 - g++ MCEEAuthBypass.cpp -static
